@@ -2,5 +2,9 @@
 
 ## 00 基本环境
 
-## 01 Hello World [[Article | 文章]](https://axionl.me/p/ohmyqt-系列-01_helloworld/) | [[SourceCode | 源码]](./01_HelloWorld/)
+## 01 Hello World 
+> [Article | 文章](https://axionl.me/p/ohmyqt-系列-01_helloworld/) 
+
+> [SourceCode | 源码](./01_HelloWorld/)
+
 ![preview](./01_HelloWorld/preview.png)
