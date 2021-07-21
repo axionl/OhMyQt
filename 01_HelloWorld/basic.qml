@@ -19,14 +19,15 @@ Window {
 
             Text {
                 id: title // 为了加以区分，我们赋予它们唯一的 id
-                anchors.horizontalCenter: parent.horizontalCenter // 水平对齐小盒子
+                Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
                 text: "这是一个大标题"
-                font.pixelSize: 48 // 标题一定要大
+                font.pixelSize: 48
+                Layout.fillWidth: false // 标题一定要大
             }
 
             Text {
                 id: description
-                anchors.horizontalCenter: parent.horizontalCenter // 水平对齐小盒子
+                Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
                 text: "我吞下玻璃会伤身体"
                 font.pixelSize: 24 // 精致的描述用小字
             }
