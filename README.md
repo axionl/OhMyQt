@@ -11,3 +11,12 @@
 > [SourceCode | 源码](./01_HelloWorld/)
 
 ![preview](./01_HelloWorld/preview.png)
+
+## 02 Data Binding
+
+
+> [Article | 文章](https://axionl.me/p/ohmyqt-系列-02_DataBinding/) 
+
+> [SourceCode | 源码](./02_DataBinding/)
+
+![preview](./02_DataBinding/preview.png)
